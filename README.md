@@ -4,7 +4,7 @@ If you like my work, you can... <a href='https://ko-fi.com/E1E0BN94' target='_bl
 
 Based on [atlas44](https://github.com/atlas44) sam-fusee-launcher (https://github.com/atlas44/sam-fusee-launcher)
 
-Current code seems to run slower on the R4S dongle than in a trinket M0. Dunno why. Feel free to fork and improve, or PR.
+Current code seems to run slower on the R4S dongle than in a trinket M0. Dunno why (i'm using autoRCM, but i don't think that has anything to do with it). Feel free to fork and improve, or PR.
 
 The dongle seems to be using a SAM D21E microcontroller with the red LED on PA16.
 
