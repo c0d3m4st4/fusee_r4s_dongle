@@ -2,7 +2,7 @@
 #include <Usb.h>
 
 // Contains fuseeBin and FUSEE_BIN_LENGTH
-#include "ctcaer_4.0_hekate.h"
+#include "hekate_ctcaer_4.0.h"
 
 #define INTERMEZZO_SIZE 92
 const byte intermezzo[INTERMEZZO_SIZE] =
